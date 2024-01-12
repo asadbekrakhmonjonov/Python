@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e6b45f1c-10cc-4435-bcd6-24d232a9e196" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/creating your own modules/string_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/creating your own modules/string_helper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,88 +36,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.a square of letters.executor": "Run",
-    "Python.all the longest in the list.executor": "Run",
-    "Python.course statistics, part2.executor": "Run",
-    "Python.course statistics.executor": "Run",
-    "Python.create a tuple.executor": "Run",
-    "Python.datetime.executor": "Run",
-    "Python.diary.executor": "Run",
-    "Python.dice roller 2.executor": "Run",
-    "Python.dice roller.executor": "Run",
-    "Python.factorials.executor": "Run",
-    "Python.find movies.executor": "Run",
-    "Python.fractions.executor": "Run",
-    "Python.go.executor": "Run",
-    "Python.grade statistics.executor": "Run",
-    "Python.grades.executor": "Run",
-    "Python.handling JSON files.executor": "Run",
-    "Python.histogram.executor": "Run",
-    "Python.hypotenuse.executor": "Run",
-    "Python.inscription.executor": "Run",
-    "Python.invert a dictionary.executor": "Run",
-    "Python.items multiplied by two.executor": "Run",
-    "Python.largest number.executor": "Run",
-    "Python.list of stars.executor": "Run",
-    "Python.lottery numbers.executor": "Run",
-    "Python.more ways.executor": "Run",
-    "Python.movie database.executor": "Run",
-    "Python.number of matching elements.executor": "Run",
-    "Python.numbers spilled out.executor": "Run",
-    "Python.older people.executor": "Run",
-    "Python.password generator, part2.executor": "Run",
-    "Python.password generator,part1.executor": "Run",
-    "Python.phone book version 1.executor": "Run",
-    "Python.phone book version 2.executor": "Run",
-    "Python.practice.executor": "Run",
-    "Python.reading data from a file.executor": "Run",
-    "Python.reading json files.executor": "Run",
-    "Python.remove the smallest.executor": "Run",
-    "Python.retrieving online data.executor": "Run",
-    "Python.special characters.executor": "Run",
-    "Python.string helper test.executor": "Run",
-    "Python.string helper.executor": "Run",
-    "Python.string_helper.executor": "Run",
-    "Python.student database.executor": "Run",
-    "Python.sudoku: add a number to a copy of a grid.executor": "Run",
-    "Python.sudoku: check column.executor": "Run",
-    "Python.sudoku: check grid.executor": "Run",
-    "Python.sudoku: check row.executor": "Run",
-    "Python.sudoku: print out the grid and add a number.executor": "Run",
-    "Python.the longest string.executor": "Run",
-    "Python.the oldest person.executor": "Run",
-    "Python.tic-tac-toe game.executor": "Run",
-    "Python.times ten.executor": "Run",
-    "Python.traverse.executor": "Run",
-    "Python.words.executor": "Run",
-    "Python.words1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/k/Documents/Python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.a square of letters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.all the longest in the list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.course statistics, part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.course statistics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create a tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datetime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dice roller 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dice roller.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorials.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find movies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fractions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.go.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grade statistics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.handling JSON files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.histogram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hypotenuse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inscription.executor&quot;: &quot;Run&quot;,
+    &quot;Python.invert a dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.items multiplied by two.executor&quot;: &quot;Run&quot;,
+    &quot;Python.largest number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list of stars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lottery numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.more ways.executor&quot;: &quot;Run&quot;,
+    &quot;Python.movie database.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number of matching elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers spilled out.executor&quot;: &quot;Run&quot;,
+    &quot;Python.older people.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password generator, part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password generator,part1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.phone book version 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.phone book version 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading data from a file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading json files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove the smallest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.retrieving online data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.special characters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string helper test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string helper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_helper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student database.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sudoku: add a number to a copy of a grid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sudoku: check column.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sudoku: check grid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sudoku: check row.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sudoku: print out the grid and add a number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.the longest string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.the oldest person.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tic-tac-toe game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.times ten.executor&quot;: &quot;Run&quot;,
+    &quot;Python.traverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.words1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/k/Documents/Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "C++"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;C++&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data processing" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.all the longest in the list">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -230,7 +229,8 @@
       <workItem from="1704970855217" duration="3144000" />
       <workItem from="1704977755844" duration="3991000" />
       <workItem from="1705018118982" duration="2446000" />
-      <workItem from="1705053078101" duration="1866000" />
+      <workItem from="1705053078101" duration="3551000" />
+      <workItem from="1705097632649" duration="108000" />
     </task>
     <servers />
   </component>
