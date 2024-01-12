@@ -9,7 +9,7 @@ def change_case(orig_string: str):
 
 def split_in_half(orig_string: str):
     half = len(orig_string) // 2
-    return orig_string[:half], orig_string[half:]
+    return orig_string[:half]
 
 def remove_special_characters(orig_string: str):
     special_characters = [",", "!"]
