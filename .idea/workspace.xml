@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6b45f1c-10cc-4435-bcd6-24d232a9e196" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/syntax.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2Vm1EU6GWrnIypGiAvKVr59HyFQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.a square of letters.executor": "Run",
+    "Python.all the longest in the list.executor": "Run",
+    "Python.course statistics, part2.executor": "Run",
+    "Python.course statistics.executor": "Run",
+    "Python.create a tuple.executor": "Run",
+    "Python.datetime.executor": "Run",
+    "Python.diary.executor": "Run",
+    "Python.dice roller 2.executor": "Run",
+    "Python.dice roller.executor": "Run",
+    "Python.factorials.executor": "Run",
+    "Python.find movies.executor": "Run",
+    "Python.fractions.executor": "Run",
+    "Python.go.executor": "Run",
+    "Python.grade statistics.executor": "Run",
+    "Python.grades.executor": "Run",
+    "Python.handling JSON files.executor": "Run",
+    "Python.histogram.executor": "Run",
+    "Python.hypotenuse.executor": "Run",
+    "Python.inscription.executor": "Run",
+    "Python.invert a dictionary.executor": "Run",
+    "Python.items multiplied by two.executor": "Run",
+    "Python.largest number.executor": "Run",
+    "Python.list of stars.executor": "Run",
+    "Python.lottery numbers.executor": "Run",
+    "Python.more ways.executor": "Run",
+    "Python.movie database.executor": "Run",
+    "Python.number of matching elements.executor": "Run",
+    "Python.numbers spilled out.executor": "Run",
+    "Python.older people.executor": "Run",
+    "Python.password generator, part2.executor": "Run",
+    "Python.password generator,part1.executor": "Run",
+    "Python.phone book version 1.executor": "Run",
+    "Python.phone book version 2.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.reading data from a file.executor": "Run",
+    "Python.reading json files.executor": "Run",
+    "Python.remove the smallest.executor": "Run",
+    "Python.retrieving online data.executor": "Run",
+    "Python.special characters.executor": "Run",
+    "Python.string helper test.executor": "Run",
+    "Python.string helper.executor": "Run",
+    "Python.string_helper.executor": "Run",
+    "Python.student database.executor": "Run",
+    "Python.sudoku: add a number to a copy of a grid.executor": "Run",
+    "Python.sudoku: check column.executor": "Run",
+    "Python.sudoku: check grid.executor": "Run",
+    "Python.sudoku: check row.executor": "Run",
+    "Python.sudoku: print out the grid and add a number.executor": "Run",
+    "Python.the longest string.executor": "Run",
+    "Python.the oldest person.executor": "Run",
+    "Python.tic-tac-toe game.executor": "Run",
+    "Python.times ten.executor": "Run",
+    "Python.traverse.executor": "Run",
+    "Python.words.executor": "Run",
+    "Python.words1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/k/Documents/Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "C++"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data processing" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="syntax" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/syntax.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6b45f1c-10cc-4435-bcd6-24d232a9e196" name="Changes" comment="" />
+      <created>1695426331669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695426331669</updated>
+      <workItem from="1700028351449" duration="206000" />
+      <workItem from="1700029022131" duration="701000" />
+      <workItem from="1700031211263" duration="5860000" />
+      <workItem from="1700086162257" duration="9659000" />
+      <workItem from="1700111134691" duration="8418000" />
+      <workItem from="1700123079254" duration="1260000" />
+      <workItem from="1700130052793" duration="2058000" />
+      <workItem from="1700392103550" duration="4362000" />
+      <workItem from="1700434152656" duration="1331000" />
+      <workItem from="1700439440696" duration="182000" />
+      <workItem from="1700455653939" duration="3384000" />
+      <workItem from="1700470391919" duration="1917000" />
+      <workItem from="1700652081454" duration="33000" />
+      <workItem from="1700964905504" duration="781000" />
+      <workItem from="1700977509208" duration="2398000" />
+      <workItem from="1700999204879" duration="1009000" />
+      <workItem from="1701037920777" duration="925000" />
+      <workItem from="1701043672702" duration="326000" />
+      <workItem from="1701045824605" duration="8396000" />
+      <workItem from="1701068740066" duration="29000" />
+      <workItem from="1701831016159" duration="2377000" />
+      <workItem from="1702378167711" duration="1134000" />
+      <workItem from="1703114637367" duration="602000" />
+      <workItem from="1703115470864" duration="245000" />
+      <workItem from="1703115764099" duration="166000" />
+      <workItem from="1703115945978" duration="7000" />
+      <workItem from="1703116218966" duration="567000" />
+      <workItem from="1703116848062" duration="102000" />
+      <workItem from="1703117947386" duration="472000" />
+      <workItem from="1703118447039" duration="235000" />
+      <workItem from="1703118703809" duration="16000" />
+      <workItem from="1703118948827" duration="127000" />
+      <workItem from="1703119123420" duration="137000" />
+      <workItem from="1703119280605" duration="13492000" />
+      <workItem from="1703205985608" duration="10721000" />
+      <workItem from="1703371094775" duration="3659000" />
+      <workItem from="1703389713899" duration="574000" />
+      <workItem from="1703391297108" duration="139000" />
+      <workItem from="1703455545240" duration="25778000" />
+      <workItem from="1703582134933" duration="40000" />
+      <workItem from="1704581475228" duration="394000" />
+      <workItem from="1704582797022" duration="8000" />
+      <workItem from="1704582889420" duration="1909000" />
+      <workItem from="1704593257231" duration="290000" />
+      <workItem from="1704595823734" duration="1398000" />
+      <workItem from="1704926918754" duration="5653000" />
+      <workItem from="1704970855217" duration="3144000" />
+      <workItem from="1704977755844" duration="3991000" />
+      <workItem from="1705018118982" duration="2446000" />
+      <workItem from="1705053078101" duration="860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$string_helper_test.coverage" NAME="string helper test Coverage Results" MODIFIED="1705053219786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating your own modules" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$addition_and_removal.coverage" NAME="addition and removal Coverage Results" MODIFIED="1700130871441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$remove_the_smallest.coverage" NAME="remove the smallest Coverage Results" MODIFIED="1703152742671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/references" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$same_word_twice.coverage" NAME="same word twice Coverage Results" MODIFIED="1701047560173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$sudoku__check_column.coverage" NAME="sudoku: check column Coverage Results" MODIFIED="1703139908329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$practice.coverage" NAME="practice Coverage Results" MODIFIED="1703472755911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuple" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$distinct_numbers.coverage" NAME="distinct numbers Coverage Results" MODIFIED="1700439494077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/definfing iteration" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$change_the_value_of_an_item.coverage" NAME="change the value of an item Coverage Results" MODIFIED="1700111541989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$dice_roller.coverage" NAME="dice roller Coverage Results" MODIFIED="1704970902509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomness" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$find_movies.coverage" NAME="find movies Coverage Results" MODIFIED="1703464188144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$story_part1.coverage" NAME="story part1 Coverage Results" MODIFIED="1700130961327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/combining conditions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$a_box_of_hashes.coverage" NAME="a box of hashes Coverage Results" MODIFIED="1700040328905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more functions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$histogram.coverage" NAME="histogram Coverage Results" MODIFIED="1703221760593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$datetime.coverage" NAME="datetime Coverage Results" MODIFIED="1704972419650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/times and dates" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$return.coverage" NAME="return Coverage Results" MODIFIED="1700097399109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more functions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$student_database.coverage" NAME="student database Coverage Results" MODIFIED="1703486364886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuple" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$the_range_of_a_list.coverage" NAME="the range of a list Coverage Results" MODIFIED="1700134232269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$sudoku__print_out_the_grid_and_add_a_number.coverage" NAME="sudoku: print out the grid and add a number Coverage Results" MODIFIED="1703157990458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/references" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$largest_number.coverage" NAME="largest number Coverage Results" MODIFIED="1703569567413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reading files" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$a_square_of_hashes.coverage" NAME="a square of hashes Coverage Results" MODIFIED="1700040759674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more functions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$even_numbers.coverage" NAME="even numbers Coverage Results" MODIFIED="1700460034891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/definfing iteration" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$reading_data_from_a_file.coverage" NAME="reading data from a file Coverage Results" MODIFIED="1703565010711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reading files" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$special_characters.coverage" NAME="special characters Coverage Results" MODIFIED="1704597300126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modules" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$tic_tac_toe_game.coverage" NAME="tic-tac-toe game Coverage Results" MODIFIED="1703206869269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1700461500657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/definfing iteration" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$lottery_numbers.coverage" NAME="lottery numbers Coverage Results" MODIFIED="1704930292709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomness" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$older_people.coverage" NAME="older people Coverage Results" MODIFIED="1703472398952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuple" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$go.coverage" NAME="go Coverage Results" MODIFIED="1703137960928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$reading_json_files.coverage" NAME="reading json files Coverage Results" MODIFIED="1704981610438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data processing" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$star_studded.coverage" NAME="star-studded Coverage Results" MODIFIED="1700392777567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/definfing iteration" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$sum_of_lists.coverage" NAME="sum of lists Coverage Results" MODIFIED="1700463483640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/definfing iteration" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$sudoku__add_a_number_to_a_copy_of_a_grid.coverage" NAME="sudoku: add a number to a copy of a grid Coverage Results" MODIFIED="1703158646025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/references" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1700131079082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$words.coverage" NAME="words Coverage Results" MODIFIED="1705022234850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating your own modules" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$from_negative_to_positive.coverage" NAME="from negative to positive Coverage Results" MODIFIED="1700393107808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/definfing iteration" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$sudoku__check_grid.coverage" NAME="sudoku: check grid Coverage Results" MODIFIED="1703141147563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$password_generator__part2.coverage" NAME="password generator, part2 Coverage Results" MODIFIED="1704939748377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomness" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$first_second_and_last_words.coverage" NAME="first,second,and last words Coverage Results" MODIFIED="1700102410387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more functions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$numbers_spilled_out.coverage" NAME="numbers spilled out Coverage Results" MODIFIED="1703461303139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$diary.coverage" NAME="diary Coverage Results" MODIFIED="1704974469192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/writing files" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$words1.coverage" NAME="words1 Coverage Results" MODIFIED="1705022239240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating your own modules" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$fractions.coverage" NAME="fractions Coverage Results" MODIFIED="1704927631417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modules" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$times_ten.coverage" NAME="times ten Coverage Results" MODIFIED="1703209181063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$factorials.coverage" NAME="factorials Coverage Results" MODIFIED="1703211284246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$the_second_occurence.coverage" NAME="the second occurence Coverage Results" MODIFIED="1700119377308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/working with strings" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$the_sum_of_positive_numbers.coverage" NAME="the sum of positive numbers Coverage Results" MODIFIED="1700460024899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/definfing iteration" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$a_square_of_letters.coverage" NAME="a square of letters Coverage Results" MODIFIED="1703550321496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuple" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$number_of_matching_elements.coverage" NAME="number of matching elements Coverage Results" MODIFIED="1703134206901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$a_spruce.coverage" NAME="a spruce Coverage Results" MODIFIED="1700094872409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more functions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$no_shouts_allowed.coverage" NAME="no shouts allowed Coverage Results" MODIFIED="1701057310299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more strings and lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$sum.coverage" NAME="sum Coverage Results" MODIFIED="1700124195242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more functions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$all_the_longest_in_the_list.coverage" NAME="all the longest in the list Coverage Results" MODIFIED="1703119071372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/definfing iteration" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$meaningful_words.coverage" NAME="meaningful words Coverage Results" MODIFIED="1700978104991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$grade_statistics.coverage" NAME="grade statistics Coverage Results" MODIFIED="1703122684293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more strings and lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$hypotenuse.coverage" NAME="hypotenuse Coverage Results" MODIFIED="1704594432776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modules" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$items_multiplied_by_two.coverage" NAME="items multiplied by two Coverage Results" MODIFIED="1703151845959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/references" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$integers_to_strings.coverage" NAME="integers to strings Coverage Results" MODIFIED="1701037932273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print statement formatting" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$phone_book_version_2.coverage" NAME="phone book version 2 Coverage Results" MODIFIED="1703376134451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$course_statistics.coverage" NAME="course statistics Coverage Results" MODIFIED="1704987104682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data processing" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$the_length_of_a_list.coverage" NAME="the length of a list Coverage Results" MODIFIED="1700112800336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$the_longest_string.coverage" NAME="the longest string Coverage Results" MODIFIED="1703132797670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$traverse.coverage" NAME="traverse Coverage Results" MODIFIED="1703211574903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$a_shape.coverage" NAME="a shape Coverage Results" MODIFIED="1700092815796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more functions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$Arithmetic_mean.coverage" NAME="Arithmetic mean Coverage Results" MODIFIED="1700134067133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$the_length_of_the_longest_in_the_list.coverage" NAME="the length of the longest in the list Coverage Results" MODIFIED="1700472641507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/definfing iteration" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$string_helper.coverage" NAME="string_helper Coverage Results" MODIFIED="1705053215979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating your own modules" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$everything_reversed.coverage" NAME="everything reversed Coverage Results" MODIFIED="1701039232431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more strings and lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$list_twice.coverage" NAME="list twice Coverage Results" MODIFIED="1700124006208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$handling_JSON_files.coverage" NAME="handling JSON files Coverage Results" MODIFIED="1704983840924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data processing" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$a_square.coverage" NAME="a square Coverage Results" MODIFIED="1700047015648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more functions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$no_vowels_allowed.coverage" NAME="no vowels allowed Coverage Results" MODIFIED="1701050894476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more strings and lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$neighbours_in_a_list.coverage" NAME="neighbours in a list Coverage Results" MODIFIED="1701832989028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more strings and lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$course_statistics__part2.coverage" NAME="course statistics, part2 Coverage Results" MODIFIED="1704988119661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data processing" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$retrieving_online_data.coverage" NAME="retrieving online data Coverage Results" MODIFIED="1704986695542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data processing" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$anagrams.coverage" NAME="anagrams Coverage Results" MODIFIED="1700394894418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/definfing iteration" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$a_triangle.coverage" NAME="a triangle Coverage Results" MODIFIED="1700048123868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more functions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$create_a_tuple.coverage" NAME="create a tuple Coverage Results" MODIFIED="1703466544707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuple" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$same_characters.coverage" NAME="same characters Coverage Results" MODIFIED="1700099141360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more functions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$movie_database.coverage" NAME="movie database Coverage Results" MODIFIED="1703462050793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$invert_a_dictionary.coverage" NAME="invert a dictionary Coverage Results" MODIFIED="1703390441203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$most_common_character.coverage" NAME="most common character Coverage Results" MODIFIED="1701047545213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more strings and lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$the_oldest_person.coverage" NAME="the oldest person Coverage Results" MODIFIED="1703468400421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tuple" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$add_items_to_a_list.coverage" NAME="add items to a list Coverage Results" MODIFIED="1700114018417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$list_of_stars.coverage" NAME="list of stars Coverage Results" MODIFIED="1703119056445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/definfing iteration" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$sudoku__check_row.coverage" NAME="sudoku: check row Coverage Results" MODIFIED="1703138945275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more lists" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$phone_book_version_1.coverage" NAME="phone book version 1 Coverage Results" MODIFIED="1703224640167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$password_generator_part1.coverage" NAME="password generator,part1 Coverage Results" MODIFIED="1704931428379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomness" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$dice_roller_2.coverage" NAME="dice roller 2 Coverage Results" MODIFIED="1704971418127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomness" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$inscription.coverage" NAME="inscription Coverage Results" MODIFIED="1704973519233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/writing files" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$the_greatest_number.coverage" NAME="the greatest number Coverage Results" MODIFIED="1700097865678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/more functions" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$grades.coverage" NAME="grades Coverage Results" MODIFIED="1704581922291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reading files" />
+    <SUITE FILE_PATH="coverage/what_to_wear_tomorrow_py$more_ways.coverage" NAME="more ways Coverage Results" MODIFIED="1703219899221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
+  </component>
+</project>

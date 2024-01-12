@@ -1,0 +1,9 @@
+""" Please write a program which asks the user for a number of days. The program then prints out the number of seconds in the amount of days given.
+
+The program should function as follows:
+ How many days? 1
+Seconds in that many days: 86400 """
+
+# Write your solution here
+days = int(input("How many days? "))
+print("Seconds in that many days",days * 24 * 60 * 60)

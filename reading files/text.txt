@@ -1,0 +1,1 @@
+"Hello there!\nThis example file contains three lines of text.\nThis is the last line."
